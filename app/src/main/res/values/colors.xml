@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d60064</color>
+    <color name="colorPrimaryDark">#b30d4d</color>
+    <color name="colorAccent">#e1e1e1</color>
+    <color name="colorText">#ffffff</color>
+    <color name="colorPrimaryDark2">#106991</color>
+    <color name="colorPrimary2">#1984b4</color>
+    <color name="colorHitam">#000000</color>
+    <color name="blue">#073DF8</color>
+    <color name="clrPrimary">#3F51B5</color>
+    <color name="clrPrimaryDark">#292b3d</color>
+    <color name="gryLight">#fafafa</color>
+    <color name="strtBlue">#09c6df</color>
+    <color name="endBlue">#0bcce6</color>
+    <color name="clrAccent">#FF4081</color>
+    <color name="biru">#1999D7</color>
+    <color name="grey_bg">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="marker_secondary">#EE792A</color>
+    <color name="putih">#FFFFFF</color>
+    <color name="nliveo_orange_colorPrimaryDark">#F57C00</color>
+    <color name="Tex">#404547</color>
+
+</resources>
